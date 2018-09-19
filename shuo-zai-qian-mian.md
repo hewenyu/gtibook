@@ -1,10 +1,14 @@
 ---
-description: 'In God we trust, all others bring data.'
+description: In God we trust, all others bring data.
 ---
 
-# 说在前面
+# 前沿
 
-以下是本书的英文链接
 
-这算是一个开始吧，如果有更好的翻译或者建议请联系mail@hewenyu.com
+    我们只相信上帝,其他人请拿出真凭实据
 
+                        –William Edwards Deming (1900-1993)
+
+
+
+在网上，很多人认可这句话是由 Deming 和 Robert W. Hayden 共同提出的。但是 Hayden 教授告诉我们，他可以宣布这个引用无效，最具讽刺意味的是，我们无法找出证据证明Deming 说过这句话
