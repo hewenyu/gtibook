@@ -11,4 +11,4 @@ description: In God we trust, all others bring data.
 
 
 
-在网上，很多人认可这句话是由 Deming 和 Robert W. Hayden 共同提出的。但是 Hayden 教授告诉我们，他可以宣布这个引用无效，最具讽刺意味的是，我们无法找出证据证明Deming 说过这句话
+在网上，很多人认可这句话是由 Deming 和 Robert W. Hayden 共同提出的。但是 Hayden 教授告诉我们，他可以宣布这个引用无效，最具讽刺意味的是，我们无法找出证据证明Deming 说过这句话。
